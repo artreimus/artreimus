@@ -1,18 +1,22 @@
 <h1 align="center">Hi, I'm Arthur 👋</h1>
 
 -------------------
+## 😄 About Me
+
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
     
 -------------------
 ## 🤝🏻Connect with Me
+-------------------
     
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
     
+    
 &emsp;
--------------------
+
 
 ## 🛠️ My Skills
 ### Programming languages:
