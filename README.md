@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arthur 👋</h1>
+<h1 align="center">Hi, I'm Arthur Reimus 👋</h1>
 
 -------------------
 ## 😄 About Me
