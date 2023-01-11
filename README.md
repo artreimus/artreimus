@@ -29,7 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frontend development:
 &emsp;
@@ -40,6 +40,11 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+    
+### Backend development:
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+&emsp;
 
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ### Misc tools:
