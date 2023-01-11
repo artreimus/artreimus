@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Arthur 👋</h1>
 
 -------------------
-&emsp;
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
 
