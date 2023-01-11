@@ -13,13 +13,13 @@
 
 &emsp;
 
-## Contact Me:
+## 🤝🏻 &nbsp;Connect with Me
 -------------------
 
 
 &emsp;
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+    ![Linkedin: Arthur Lechoncito](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
@@ -42,6 +42,9 @@
 <a href="https://codepen.io/berkeli">
     ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
 </a>
+    
+
+
 
 &emsp;
 
