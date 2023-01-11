@@ -2,20 +2,14 @@
 
 -------------------
 ## 😄 About Me
-
-<h3 align="left">I am a fresh grad Computer Engineer from the Philippines. My fields of interest are embedded systems, full stack web development, artificial intelligence, and user experience design.
-    I'm looking to join a passionate engineering team that will provide me with challenges that will push me past my limits and force me to learn quickly through a fast feedback loop. I'm very willing to wear many hats to contribute to the company's success. 
- </h3>
-&emsp;
-    
-
+<p align="left">I am a fresh grad Computer Engineer from the Philippines. My fields of interest are embedded systems, full stack web development, artificial intelligence, and user experience design. </p>
+<p align="left">I'm looking to join a passionate engineering team that will provide me with challenges that will push me past my limits and force me to learn quickly through a fast feedback loop. I'm very willing to wear many hats to contribute to the company's success. </p>
 
 -------------------
 ## 🤝🏻 Connect with Me
 - LinkedIn: &nbsp; https://www.linkedin.com/in/arthur-lechoncito/
 - Email: &nbsp; arthurlechoncito@gmail.com
 -------------------
-
 
 ## 🛠️ My Skills
 ### Programming languages:
