@@ -8,8 +8,8 @@
 
 -------------------
 ## 🤝🏻 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/arthur-lechoncito/
-- Email: arthurlechoncito@gmail.com
+- LinkedIn: &nbsp https://www.linkedin.com/in/arthur-lechoncito/
+- Email: &nbsp arthurlechoncito@gmail.com
 -------------------
 
 
