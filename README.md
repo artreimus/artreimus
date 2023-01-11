@@ -61,4 +61,4 @@
 -------------------
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?artreimus={artreimus}&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?artreimus=artreimus&theme=blue-green)
