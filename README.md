@@ -5,12 +5,11 @@
 &emsp;
     
 -------------------
- 
 ## 🤝🏻Connect with Me
 &emsp;
 
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
- LinkedIn	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: artreimus](https://img.shields.io/twitter/follow/halmyradov?style=social)
