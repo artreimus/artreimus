@@ -9,9 +9,8 @@
 -------------------
 ### 🤝🏻 &nbsp;Connect with Me
 &emsp;
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/arthur-lechoncito/">
-   LinkedIn
-</a>
+- LinkedIn: https://www.linkedin.com/in/arthur-lechoncito/
+- Gmail: arthurlechoncito@gmail.com
 
 
 &emsp;
