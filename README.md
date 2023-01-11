@@ -9,12 +9,11 @@
 -------------------
 ### 🤝🏻 &nbsp;Connect with Me
 &emsp;
-<a href="https://www.linkedin.com/in/arthur-lechoncito/">
-   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/arthur-lechoncito/">
+   LinkedIn
 </a>
-<a href="https://www.linkedin.com/in/arthur-lechoncito/">
-   arthurlechoncito@gmail.com
-</a>
+
+
 &emsp;
 -------------------
 
