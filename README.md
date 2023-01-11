@@ -7,13 +7,9 @@
 &emsp;
 
 -------------------
-### 🤝🏻 &nbsp;Connect with Me
-&emsp;
+### 🤝🏻 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/arthur-lechoncito/
 - Gmail: arthurlechoncito@gmail.com
-
-
-&emsp;
 -------------------
 
 
