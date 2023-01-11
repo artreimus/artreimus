@@ -60,6 +60,12 @@
 
 -------------------
 ## 🤝🏻 Stats
+<p align="center">
+    <a href="https://github.com/artreimus">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?                     username=artreimus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=artreimus&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artreimus&theme=blue-green)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artreimus&theme=blue-green)
 
