@@ -59,6 +59,8 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 -------------------
-
-
+## 🤝🏻 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artreimus&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=artreimus&theme=blue-green)
+
+-------------------
