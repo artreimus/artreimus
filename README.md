@@ -13,12 +13,12 @@
 
 &emsp;
 
-## Me around the web:
+## Contact Me:
 -------------------
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
+<a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
