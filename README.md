@@ -7,7 +7,7 @@
 &emsp;
 
 -------------------
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/arthur-lechoncito/
 - Gmail: arthurlechoncito@gmail.com
 -------------------
@@ -59,3 +59,6 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 -------------------
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
