@@ -3,10 +3,13 @@
 -------------------
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
+    
 -------------------
+    
 &emsp;
 ## 🤝🏻Connect with Me
 &emsp;
+    
 -------------------
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![Linkedin: Arthur Lechoncito](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
