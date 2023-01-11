@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli. I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
+<h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
 
 -------------------
