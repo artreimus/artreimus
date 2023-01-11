@@ -6,20 +6,15 @@
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
     
--------------------
-## 🤝🏻Connect with Me
--------------------
-    
-<a href="https://www.linkedin.com/in/arthur-lechoncito/">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-    
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-    
-    
-&emsp;
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+-----
 
 
 ## 🛠️ My Skills
