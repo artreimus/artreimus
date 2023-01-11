@@ -3,16 +3,10 @@
 -------------------
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
-- I'm looking to join a passionate engineering team that will provide me with challenges that will push me past my limits and force me to learn quickly through a fast feedback loop. I'm very willing to wear many hats to contribute to the company's success. 
-- I could be an excellent addition to any company that aims to produce innovative, user friendly, and beautiful products that customers TRULY need. 
-
 -------------------
 
 ## 🤝🏻 &nbsp;Connect with Me
 -------------------
-
-
-&emsp;
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![Linkedin: Arthur Lechoncito](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
