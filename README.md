@@ -7,9 +7,7 @@
 -------------------
  
 ## 🤝🏻Connect with Me
-&emsp;
-    
--------------------
+
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![Linkedin: Arthur Lechoncito](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
@@ -20,6 +18,8 @@
     ![Instagram: artreimus](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
 &emsp;
+    
+-------------------
 
 ## 🛠️ My Skills
 -------------------
