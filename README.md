@@ -33,13 +33,15 @@
 
 ### Frontend development:
 &emsp;
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![Bootsrap](https://img.shields.io/badge/-BootStrap-000?&logo=BootStrap)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
     
 ### Backend development:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
