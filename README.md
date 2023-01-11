@@ -6,19 +6,10 @@
     
 -------------------
 ## 🤝🏻Connect with Me
-&emsp;
-
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: artreimus](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: artreimus](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
 &emsp;
-    
 -------------------
 
 ## 🛠️ My Skills
@@ -40,7 +31,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
     
 ### Backend development:
-&emsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
