@@ -4,7 +4,6 @@
 <h3 align="left">I am a Computer Engineer proficient in embedded systems, full stack web development, artificial intelligence, and user experience design. 
 &emsp;
 -------------------
-
 ## 🤝🏻 &nbsp;Connect with Me
 -------------------
 <a href="https://www.linkedin.com/in/arthur-lechoncito/">
@@ -16,8 +15,6 @@
 <a href="https://www.instagram.com/halmyradov/">
     ![Instagram: artreimus](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
-    
-
 &emsp;
 
 ## 🛠️ My Skills
