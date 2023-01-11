@@ -46,6 +46,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 &emsp;
 
 ### Misc tools:
@@ -55,7 +56,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000?&logo=BitBucket)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
@@ -64,3 +65,7 @@
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
+
+### Hardware:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
