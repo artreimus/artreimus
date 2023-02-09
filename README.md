@@ -2,8 +2,7 @@
 
 -------------------
 ## 😄 About Me
-<p align="left">I am a fresh grad Computer Engineer from the Philippines. My fields of interest are embedded systems, full stack web development, artificial intelligence, and user experience design. </p>
-<p align="left">I'm looking to join a passionate engineering team that will provide me with challenges that will push me past my limits and force me to learn quickly through a fast feedback loop. I'm very willing to wear many hats to contribute to the company's success. </p>
+<p align="left">I am a recent graduate of Computer Engineering from Mapua University with a strong foundation in full-stack development, embedded systems, and user experience design. I aim to join a passionate team that provides challenging engineering opportunities to help me learn and grow while meaningfully contributing to developing innovative, user-friendly, and visually appealing products that truly meet customer needs. </p>
 
 -------------------
 ## 🤝🏻 Connect with Me
