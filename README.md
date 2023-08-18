@@ -2,7 +2,7 @@
 
 -------------------
 ## 😄 About Me
-<p align="left">I am a recent graduate of Computer Engineering from Mapua University with a strong foundation in full-stack development, artificial intelligence, embedded systems, and user experience design. I aim to meaningfully contribute to the development of innovative, user-friendly, and visually appealing products that truly meet customer needs. </p>
+<p align="left">I am a developer at IBM specializing in full-stack development and artificial intelligence. My goal is meaningfully contribute to the development of innovative, user-friendly, and visually appealing products that truly meet customer needs. </p>
 
 -------------------
 ## 🤝🏻 Connect with Me
