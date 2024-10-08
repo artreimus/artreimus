@@ -2,7 +2,7 @@
 
 -------------------
 ## 😄 About Me
-<p align="left">I am a developer at IBM specializing in full-stack development and artificial intelligence. My goal is meaningfully contribute to the development of innovative, user-friendly, and visually appealing products that truly meet customer needs. </p>
+<p align="left">I am an AI Engineer at IBM specializing in Generative AI and Full-stack development. My goal is meaningfully contribute to the development of innovative, user-friendly, and visually appealing products that truly meet customer needs. </p>
 
 -------------------
 ## 🤝🏻 Connect with Me
