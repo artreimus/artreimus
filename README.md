@@ -1,110 +1,85 @@
 <div align="center">
-    <h1>Hi, I'm Arthur Reimus 👋</h1>
-    <h3>AI Engineer @ IBM | Building the Future of Enterprise AI</h3>
+  <h1>Arthur Reimus</h1>
+  <h3>AI Architect @ IBM | Incoming Solutions Architect @ BytePlus</h3>
 </div>
 
----
+I build production enterprise AI systems: agent workflows, RAG, evals, secure cloud runtimes, and tools people actually use.
 
-## 😄 About Me
-
-<p align="left">I am an AI Engineer at IBM specializing in Generative AI and Full-stack development. I lead the development of cutting-edge AI solutions that drive measurable business impact, including. I've delivered solutions to Fortune 500 clients including DHL, Ernst & Young, and BPI, consistently achieving 60-80% efficiency improvements in business workflows.</p>
+My focus is the last mile of enterprise AI: turning models into secure, grounded, evaluated, cost-aware systems that fit real workflows.
 
 ---
 
-## 🤝🏻 Connect with Me
+## Current Focus
+
+- Architecting secure agentic AI platforms with access controls, reusable templates, evaluation loops, and operational guardrails.
+- Building AI developer workflow tools for code review, SDLC automation, document processing, multimodal translation, and content generation.
+- Preparing for a field-facing AI and platform solution architecture role at BytePlus in July 2026.
+- Writing about context engineering, AI agents, RAG, evals, and practical LLM systems at [Ylang Labs](https://ylanglabs.com).
+
+---
+
+## Selected Work
+
+| Area | What I work on |
+| --- | --- |
+| Agentic AI platforms | Secure runtime patterns, agent templates, governance controls, and production-readiness workflows. |
+| AI code review | Autonomous agents that review GitHub pull requests, enforce engineering standards, and keep humans in the review loop. |
+| Multi-agent orchestration | Canvas-based workflows for coordinating assistants and agents across repeatable business processes. |
+| Document AI and RAG | Grounded retrieval, structured extraction, quality checks, and workflow integration for high-volume document use cases. |
+| Developer workflow automation | IDE-integrated assistants for planning, requirements, tests, implementation support, and standards enforcement. |
+| Multimodal productivity | Translation and content-generation tools for document, text, voice, image, and presentation workflows. |
+| Computer vision research | Published an award-winning thesis on tongue-print biometric recognition using ORB and Raspberry Pi hardware. |
+
+---
+
+## Tech Stack
+
+| Lane | Tools and systems |
+| --- | --- |
+| AI agents | LangGraph, CrewAI, OpenClaw, MCP, agent skills, multi-agent systems |
+| RAG and evals | Vector databases, structured outputs, LLM-as-judge, retrieval evaluation, guardrails |
+| Backend | Python, FastAPI, Node.js, Express.js, REST APIs, GraphQL |
+| Frontend | TypeScript, React, Next.js, HTML, CSS, Sass |
+| Cloud and DevOps | AWS, Azure, IBM Cloud, Docker, CI/CD, IAM, secrets management, observability |
+| Data | SQL, NoSQL, graph databases, pgvector, document AI, multimodal AI |
+
+---
+
+## Writing And Research
+
+- I write practical AI engineering notes at [Ylang Labs](https://ylanglabs.com), especially around context engineering, production agents, RAG, MCP, evals, and reliable LLM workflows.
+- My published undergraduate research is [Recognition of Tongue Print Biometric using Oriented FAST and Rotated BRIEF (ORB)](https://doi.org/10.1109/ICoDSA55874.2022.9862830), presented at ICoDSA 2022.
+
+---
+
+## Recognition
+
+- 7x AWS Certified, including Generative AI Developer - Professional, Machine Learning - Specialty, Machine Learning Engineer - Associate, Data Engineer - Associate, Solutions Architect - Associate, AI Practitioner, and Cloud Practitioner.
+- AWS Community Builder 2026 - AI Engineering.
+- IBM Generative and Agentic AI Expert - Architect.
+- IBM Tech Awardee 2026.
+- 2x IBM global hackathon winner.
+
+---
+
+## Connect
 
 <div align="center">
-    
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lechoncito/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlechoncito@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ylanglabs.com)
+[![Ylang Labs](https://img.shields.io/badge/Ylang%20Labs-111827?style=for-the-badge&logo=readme&logoColor=white)](https://ylanglabs.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artreimus)
 
 </div>
 
 ---
 
-## 🛠️ My Tech Stack
+<details>
+<summary>GitHub activity</summary>
 
-### AI & Machine Learning:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6C5CE7?style=for-the-badge&logo=robot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-E85A5A?style=for-the-badge&logo=anthropic&logoColor=white)
-![IBM WatsonX](https://img.shields.io/badge/IBM%20WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Retrieval Augmented Generation](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=searchengin&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-2ECC71?style=for-the-badge&logo=database&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-E74C3C?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-### Programming languages:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend development:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend development:
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-e535ab?style=for-the-badge&logo=graphql)
-
-### Test driven development:
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-### Cloud & DevOps:
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Misc tools:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Enterprise AI Frameworks:
-
-![LangWatch](https://img.shields.io/badge/LangWatch-FF69B4?style=for-the-badge&logo=eye&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-8A2BE2?style=for-the-badge&logo=smith&logoColor=white)
-![LangFuse](https://img.shields.io/badge/LangFuse-FFA500?style=for-the-badge&logo=fuse&logoColor=white)
-![TruLens](https://img.shields.io/badge/TruLens-20B2AA?style=for-the-badge&logo=lens&logoColor=white)
-![DsPy](https://img.shields.io/badge/DsPy-FF1493?style=for-the-badge&logo=python&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A5ACD?style=for-the-badge&logo=llama&logoColor=white)
-![Docling](https://img.shields.io/badge/Docling-32CD32?style=for-the-badge&logo=document&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-FF4500?style=for-the-badge&logo=protocol&logoColor=white)
-
-### Hardware:
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
----
-
-## 📊 GitHub Analytics & Activity
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=artreimus&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artreimus&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </div>
+
+</details>
