@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Arthur Reimus</h1>
   <h3>AI Architect @ IBM | Incoming Solutions Architect @ BytePlus</h3>
-  <img src="assets/readme/enterprise-ai-banner.png" alt="Production AI systems banner showing agents, RAG, evals, and secure runtimes" width="100%" />
+  <img src="assets/readme/enterprise-ai-banner.png" alt="Embroidered astronaut banner in a cosmic bamboo grove" width="100%" />
 </div>
 
 I build production enterprise AI systems: agent workflows, RAG, evals, secure cloud runtimes, and tools people actually use.
