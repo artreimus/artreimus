@@ -35,14 +35,47 @@ My focus is the last mile of enterprise AI: turning models into secure, grounded
 
 ## Tech Stack
 
-| Lane | Tools and systems |
-| --- | --- |
-| AI agents | LangGraph, CrewAI, OpenClaw, MCP, agent skills, multi-agent systems |
-| RAG and evals | Vector databases, structured outputs, LLM-as-judge, retrieval evaluation, guardrails |
-| Backend | Python, FastAPI, Node.js, Express.js, REST APIs, GraphQL |
-| Frontend | TypeScript, React, Next.js, HTML, CSS, Sass |
-| Cloud and DevOps | AWS, Azure, IBM Cloud, Docker, CI/CD, IAM, secrets management, observability |
-| Data | SQL, NoSQL, graph databases, pgvector, document AI, multimodal AI |
+### AI Agents, RAG, And Evals
+
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C5CE7?style=for-the-badge&logo=robotframework&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-FF4500?style=for-the-badge&logo=protocols-dot-io&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=searchengin&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-2ECC71?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM Evals](https://img.shields.io/badge/LLM%20Evals-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-8A2BE2?style=for-the-badge&logo=smith&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-FFA500?style=for-the-badge&logo=gotomeeting&logoColor=white)
+![Docling](https://img.shields.io/badge/Docling-32CD32?style=for-the-badge&logo=googledocs&logoColor=white)
+
+### Languages And App Frameworks
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Cloud, Data, And Delivery
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E535AB?style=for-the-badge&logo=graphql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
