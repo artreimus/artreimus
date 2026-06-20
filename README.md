@@ -140,11 +140,8 @@ My focus is the last mile of enterprise AI: turning models into secure, grounded
 
 ---
 
-<details>
-<summary>GitHub activity</summary>
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=artreimus&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </div>
-
-</details>
