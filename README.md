@@ -113,7 +113,7 @@ My focus is the last mile of enterprise AI: turning models into secure, grounded
 ## Writing And Research
 
 - I write practical AI engineering notes at [Ylang Labs](https://ylanglabs.com), especially around context engineering, production agents, RAG, MCP, evals, and reliable LLM workflows.
-- My published undergraduate research is [Recognition of Tongue Print Biometric using Oriented FAST and Rotated BRIEF (ORB)](https://doi.org/10.1109/ICoDSA55874.2022.9862830), presented at ICoDSA 2022.
+- My published undergraduate research is [Recognition of Tongue Print Biometric using Oriented FAST and Rotated BRIEF (ORB)](https://doi.org/10.1109/ICoDSA55874.2022.9862830), presented at ICoDSA 2022 and recognized with two Best Research Paper awards, one from ICoDSA and one from Mapua University.
 
 ---
 
