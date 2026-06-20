@@ -115,6 +115,10 @@ My focus is the last mile of enterprise AI: turning models into secure, grounded
 - I write practical AI engineering notes at [Ylang Labs](https://ylanglabs.com), especially around context engineering, production agents, RAG, MCP, evals, and reliable LLM workflows.
 - My published undergraduate research is [Recognition of Tongue Print Biometric using Oriented FAST and Rotated BRIEF (ORB)](https://doi.org/10.1109/ICoDSA55874.2022.9862830), presented at ICoDSA 2022 and recognized with two Best Research Paper awards, one from ICoDSA and one from Mapua University.
 
+<div align="center">
+  <img src="assets/readme/school-of-athens.png" alt="The School of Athens classical fresco" width="720" />
+</div>
+
 ---
 
 ## Recognition
